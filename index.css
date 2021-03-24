@@ -1,0 +1,16 @@
+body {
+  background-color: teal;
+}
+
+.js-title {
+  color: white;
+}
+
+.form,
+.greetings {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
