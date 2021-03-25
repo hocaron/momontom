@@ -22,10 +22,11 @@ body {
   display: none;
 }
 
+.js-form,
 .js-greetings {
   position: absolute;
   top: 450px;
-  left: 49%;
+  left: 50%;
   margin: auto;
   font-size: 50px;
   font-family: "Times New Roman", Times, serif;
